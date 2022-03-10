@@ -1,0 +1,21 @@
+main{
+    background-color: #B91450;
+    height: 100vh;
+}
+
+.c-purple{
+    color: #B91450;
+}
+
+.rounded-20{
+    border: 1px solid grey;
+    border-radius: 20px;
+}
+
+.box-shadow{
+    box-shadow: 10px 10px 10px 10px  rgba(0, 0, 0, 0.5);
+}
+
+.border-dotted{
+    border-right: 1px dotted brown;
+}
